@@ -1,0 +1,28 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "A game that utilizes TDD, OOP, and node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcorum11/jest-another-rpg.git"
+  },
+  "keywords": [
+    "OOP",
+    "TDD",
+    "game",
+    "RPG"
+  ],
+  "author": "Jake Corum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcorum11/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/jcorum11/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
