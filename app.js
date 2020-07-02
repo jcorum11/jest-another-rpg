@@ -1,5 +1,3 @@
 const Game = require('./lib/Game');
 
-game = new Game()
-
-game.initializeGame()
+new Game().initializeGame();
